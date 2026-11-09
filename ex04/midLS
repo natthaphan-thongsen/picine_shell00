@@ -1,0 +1,32 @@
+total 108
+drwx------ 18 nathongs 2026_bangkok  4096 Nov  9 14:39 .
+drwxr-xr-x 13 root     root          4096 Nov  9 12:28 ..
+drwx------ 14 nathongs 2026_bangkok  4096 Nov  9 12:29 .cache
+drwx------ 17 nathongs 2026_bangkok  4096 Nov  9 12:29 .config
+drwxr-xr-x  8 nathongs 2026_bangkok   151 Nov  9 14:38 cpicine_shell_00
+drwxr-xr-x  2 nathongs 2026_bangkok     6 Nov  9 11:10 Desktop
+-rw-r--r--  1 nathongs 2026_bangkok    25 Nov  9 11:55 .dmrc
+drwxr-xr-x  3 nathongs 2026_bangkok    41 Nov  9 11:10 .docker
+drwxr-xr-x  2 nathongs 2026_bangkok     6 Nov  9 11:10 Documents
+drwxr-xr-x  3 nathongs 2026_bangkok    90 Nov  9 11:52 Downloads
+-rw-r--r--  1 nathongs 2026_bangkok   146 Nov  9 11:10 .face
+drwx------  2 nathongs 2026_bangkok    44 Nov  9 12:28 .gnupg
+lrwxrwxrwx  1 nathongs 2026_bangkok    17 Nov  9 11:10 goinfre -> /goinfre/nathongs
+-rw-------  1 nathongs 2026_bangkok    32 Nov  9 14:14 .lesshst
+drwx------  4 nathongs 2026_bangkok    32 Nov  9 11:10 .local
+drwxr-xr-x  2 nathongs 2026_bangkok     6 Nov  9 11:10 Music
+drwxr-xr-x  2 nathongs 2026_bangkok     6 Nov  9 11:10 Pictures
+drwxr-xr-x  2 nathongs 2026_bangkok     6 Nov  9 11:10 Public
+lrwxrwxrwx  1 nathongs 2026_bangkok    27 Nov  9 11:10 sgoinfre -> /sgoinfre/students/nathongs
+drwx------  3 nathongs 2026_bangkok    39 Nov  9 11:10 snap
+drwx------  2 nathongs 2026_bangkok    88 Nov  9 14:29 .ssh
+-rw-r--r--  1 nathongs 2026_bangkok     2 Nov  9 12:28 .standardsettings
+drwxr-xr-x  2 nathongs 2026_bangkok     6 Nov  9 11:10 Templates
+drwxr-xr-x  2 nathongs 2026_bangkok     6 Nov  9 11:10 Videos
+-rw-------  1 nathongs 2026_bangkok  7160 Nov  9 13:52 .viminfo
+-rw-------  1 nathongs 2026_bangkok   130 Nov  9 12:28 .Xauthority
+-rw-------  1 nathongs 2026_bangkok     0 Nov  9 12:28 .xsession-errors
+-rw-------  1 nathongs 2026_bangkok     0 Nov  9 11:10 .xsession-errors.old
+-rw-r--r--  1 nathongs 2026_bangkok 49773 Nov  9 11:31 .zcompdump
+-rw-------  1 nathongs 2026_bangkok  6148 Nov  9 14:39 .zsh_history
+-rw-r--r--  1 nathongs 2026_bangkok  1295 Nov  9 11:53 .zshrc
